@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leafs on Rustic Bonsai</title>
+    <link>http://example.org/leafs/</link>
+    <description>Recent content in Leafs on Rustic Bonsai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2024 10:45:14 +0530</lastBuildDate><atom:link href="http://example.org/leafs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Tauri</title>
+      <link>http://example.org/leafs/intro-to-tauri/</link>
+      <pubDate>Mon, 15 Apr 2024 10:45:14 +0530</pubDate>
+      
+      <guid>http://example.org/leafs/intro-to-tauri/</guid>
+      <description>Introduction to Tauri Tauri is an app construction toolkit that lets you build software for all major desktop operating systems using web technologies.
+Whether you&amp;rsquo;re new to Tauri development, want to integrate Tauri into an existing project, are ready to get your app into the hands of users, or want to learn how to use a common Tauri feature, we have the help for you.</description>
+    </item>
+    
+  </channel>
+</rss>

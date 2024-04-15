@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Tauri"
 date: 2024-04-15T10:45:14+05:30
-draft: true
+draft: false
 ---
 
 # Introduction to Tauri
