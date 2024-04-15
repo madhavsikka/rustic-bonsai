@@ -1,0 +1,33 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Rustic Bonsai'
+
+theme = "cactus"
+
+[params]
+    mainSection = "leafs"
+    mainSectionTitle = "Leafs"
+    colortheme = "dark" # dark, light, white, or classic
+    css = ["css/custom.css"]
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
