@@ -1,7 +1,7 @@
 baseURL = ""
 relativeURLs = "True"
 languageCode = 'en-us'
-title = 'Rustic Bonsai'
+title = 'Rustic'
 
 theme = "cactus"
 
